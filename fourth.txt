@@ -1,0 +1,2 @@
+Blockchain—a peer-to-peer network that sits on top of the internet—was introduced in October 2008 as part of a proposal for bitcoin,
+ a virtual currency system that eschewed a central authority for issuing currency, transferring ownership, and confirming transactions.
