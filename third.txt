@@ -1,0 +1,4 @@
+Solidity was proposed in August 2014 by Gavin Wood;
+ the language was later developed by the Ethereum project's Solidity team, led by Christian Reitwiessner. 
+Solidity is the primary language on Ethereum as well as on other private blockchains,
+ such as the enterprise-oriented Hyperledger Fabric blockchain.
